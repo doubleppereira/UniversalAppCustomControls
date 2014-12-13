@@ -1,7 +1,7 @@
 Universal App CustomControls
 ==========================
 
-Library with some custom controls for universal apps
+Library with some custom controls for universal apps (Windows Phone 8.1 and Windows 8.1)
 
 Controls:
 
